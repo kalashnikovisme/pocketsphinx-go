@@ -3,7 +3,7 @@ package sphinx
 import (
 	"fmt"
 
-	"github.com/xlab/pocketsphinx-go/pocketsphinx"
+	"github.com/kalashnikovisme/pocketsphinx-go/pocketsphinx"
 )
 
 // Lattice word graph structure used in bestpath/nbest search.

@@ -1,6 +1,6 @@
 package sphinx
 
-import "github.com/xlab/pocketsphinx-go/pocketsphinx"
+import "github.com/kalashnikovisme/pocketsphinx-go/pocketsphinx"
 
 func b(b bool) int32 {
 	if b {

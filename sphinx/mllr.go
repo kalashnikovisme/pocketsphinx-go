@@ -3,7 +3,7 @@ package sphinx
 import (
 	"fmt"
 
-	"github.com/xlab/pocketsphinx-go/pocketsphinx"
+	"github.com/kalashnikovisme/pocketsphinx-go/pocketsphinx"
 )
 
 type MLLR struct {

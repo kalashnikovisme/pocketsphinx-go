@@ -1,6 +1,6 @@
 package sphinx
 
-import "github.com/xlab/pocketsphinx-go/pocketsphinx"
+import "github.com/kalashnikovisme/pocketsphinx-go/pocketsphinx"
 
 type Config struct {
 	opt       map[String]interface{}
