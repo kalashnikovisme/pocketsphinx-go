@@ -46,7 +46,7 @@
 #include <../sphinxbase/cmd_ln.h>
 #include <../sphinxbase/logmath.h>
 #include <../sphinxbase/fe.h>
-#include <sphinxbase/feat.h>
+#include <../sphinxbase/feat.h>
 
 /* PocketSphinx headers (not many of them!) */
 #include <pocketsphinx_export.h>
