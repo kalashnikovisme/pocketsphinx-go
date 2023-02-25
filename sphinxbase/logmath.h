@@ -73,7 +73,7 @@
 #define __LOGMATH_H__
 
 #include <../sphinxbase/sphinxbase_export.h>
-#include <sphinxbase/prim_type.h>
+#include <../sphinxbase/prim_type.h>
 #include <sphinxbase/cmd_ln.h>
 
 
