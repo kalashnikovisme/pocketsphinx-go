@@ -6,9 +6,9 @@ import (
 	"unsafe"
 
 	"github.com/jawher/mow.cli"
-	"github.com/kalashnikovisme/closer"
+	"github.com/xlab/closer"
 	"github.com/kalashnikovisme/pocketsphinx-go/sphinx"
-	"github.com/kalashnikovisme/portaudio-go/portaudio"
+	"github.com/xlab/portaudio-go/portaudio"
 )
 
 const (
