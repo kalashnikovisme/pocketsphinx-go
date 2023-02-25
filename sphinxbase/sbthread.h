@@ -45,8 +45,8 @@
 
 #include <sphinx_config.h>
 
-#include <sphinxbase/sphinxbase_export.h>
-#include <sphinxbase/cmd_ln.h>
+#include <../sphinxbase/sphinxbase_export.h>
+#include <../sphinxbase/cmd_ln.h>
 
 #ifdef __cplusplus
 extern "C" {
