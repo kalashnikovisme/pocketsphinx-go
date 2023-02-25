@@ -59,7 +59,7 @@
 /* Win32/WinCE DLL gunk */
 #include <../sphinxbase/sphinxbase_export.h>
 
-#include <sphinxbase/cmd_ln.h>
+#include <../sphinxbase/cmd_ln.h>
 #include <sphinxbase/fixpoint.h>
 
 #ifdef __cplusplus
