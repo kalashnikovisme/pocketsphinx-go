@@ -60,7 +60,7 @@
 #include <../sphinxbase/sphinxbase_export.h>
 
 #include <../sphinxbase/cmd_ln.h>
-#include <sphinxbase/fixpoint.h>
+#include <../sphinxbase/fixpoint.h>
 
 #ifdef __cplusplus
 extern "C" {
