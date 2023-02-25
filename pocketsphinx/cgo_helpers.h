@@ -4,7 +4,7 @@
 // By https://git.io/c-for-go. DO NOT EDIT.
 
 #include "pocketsphinx.h"
-#include "jsgf.h"
+#include ".../sphinxbase/jsgf.h"
 #include <stdlib.h>
 #pragma once
 
