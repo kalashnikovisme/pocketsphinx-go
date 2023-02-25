@@ -8,7 +8,7 @@ package pocketsphinx
 /*
 #cgo pkg-config: pocketsphinx
 #include "pocketsphinx.h"
-#include "jsgf.h"
+#include "../sphinxbase/jsgf.h"
 #include <stdlib.h>
 #include "cgo_helpers.h"
 */
