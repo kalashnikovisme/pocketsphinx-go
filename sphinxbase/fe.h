@@ -57,7 +57,7 @@
 #define _NEW_FE_H_
 
 /* Win32/WinCE DLL gunk */
-#include <sphinxbase/sphinxbase_export.h>
+#include <../sphinxbase/sphinxbase_export.h>
 
 #include <sphinxbase/cmd_ln.h>
 #include <sphinxbase/fixpoint.h>
