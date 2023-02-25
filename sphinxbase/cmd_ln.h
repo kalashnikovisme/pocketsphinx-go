@@ -63,7 +63,7 @@
 
 /* Win32/WinCE DLL gunk */
 #include <../sphinxbase/sphinxbase_export.h>
-#include <sphinxbase/prim_type.h>
+#include <../sphinxbase/prim_type.h>
 
 /**
  * @file cmd_ln.h
